@@ -1,6 +1,6 @@
 <!-- Typing Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7371B&center=true&vCenter=true&width=600&lines=Hello+World!+I'm+Danah+Alshehri;Software+Engineering+Student;AI+%26+DS+Track+at+PSU" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7371B&center=true&vCenter=true&width=600&lines=Hello+World!+I'm+Danah+Alshehri" alt="Typing SVG" />
 </p>
 
 ---
@@ -12,7 +12,7 @@
 
 ### 🎨 Avatar
 <p align="center">
-  <img src="git-challenge/team/DanahAlshehri/AvatarImage.png" alt="Danah Avatar" width="200" />
+  <img src="AvatarImage.png" alt="Danah Avatar" width="200" />
 </p>
 
 ### ✨ Who Am I?
