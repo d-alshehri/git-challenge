@@ -12,7 +12,7 @@
 
 ### 🎨 Avatar
 <p align="center">
-  <img src="team/DanahAlshehri/AvatarImage.png" alt="Danah Avatar" width="200" />
+  <img src="git-challenge/team/DanahAlshehri/AvatarImage.png" alt="Danah Avatar" width="200" />
 </p>
 
 ### ✨ Who Am I?
